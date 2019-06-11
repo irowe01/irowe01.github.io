@@ -1,0 +1,24 @@
+h1 {
+  color: aquamarine;
+  font-family: verdana;
+  font-size: 300%;
+}
+
+#lyrics {
+  color: white;
+  background-color: black;
+  font-family: "Courier New";
+  font-size: 16px;
+  width: 300px;
+  margin: auto;
+}
+
+div {
+  width: 300px;
+  word-wrap: break-word;
+}
+
+body {
+  background-color: #a0a0a1;
+  text-align: center;
+}
